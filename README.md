@@ -1,6 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# Bulletin Board
+Developed on the base of [Learning React.js training from Lynda.com](https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html).
 
-You can find some information on how to perform common tasks in the [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find some information on how to perform common tasks in the [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Folder Structure
 
